@@ -1,0 +1,26 @@
+.container{
+    border: 1px solid black;    
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 50px;
+
+}
+
+.caja{
+    width: 20vw;
+    height: 120px;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+/* .header{
+
+}
+
+.body{
+
+}
+
+.footer{
+
+} */
